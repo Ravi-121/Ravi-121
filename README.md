@@ -1,5 +1,20 @@
 # こんにちは 👋 | Hi, I'm Ravi 🕯️
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=JetBrains+Mono&
+  pause=1200&
+  color=7F5AF0&
+  center=true&
+  vCenter=true&
+  width=600&
+  lines=Observer+of+Code;
+  Walking+the+Path+of+Knowledge;
+  Full+Stack+Developer+in+Progress;
+  Inspired+by+LOTM+%26+Japan" />
+</p>
+
+
 ⣀⣤⣶⣶⣶⣤⣀                                                                                       
 ⣿⣿⣿⡿⠟⠋⠉⠙⠻⢿⣿⣿⣿                                                                               
 ⣿⣿⠟⠁ ソフトウェア開発者                                                                          
