@@ -1,16 +1,77 @@
-## Hi there 👋
+# こんにちは 👋 | Hi, I'm Ravi 🕯️
 
-<!--
-**Ravi-121/Ravi-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⣀⣤⣶⣶⣶⣤⣀
+⣿⣿⣿⡿⠟⠋⠉⠙⠻⢿⣿⣿⣿
+⣿⣿⠟⠁ ソフトウェア開発者
+⣿⡟⠀ Software Developer
+⣿⣿⣄⡀ 夢をコードにする
+⠙⠻⠿⠿⠷⠶⠶⠶⠶⠶⠶⠶⠶⠶
 
-Here are some ideas to get you started:
+> 「継続は力なり」  
+> *Consistency is power.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in:
+- Simplicity over complexity
+- Discipline over motivation
+- Progress over perfection
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science Student / Developer
+- 🌱 Currently learning **Full Stack Development**
+- 🧠 Interested in **Japanese language, culture & minimal UI**
+- ⚔️ Inspired by Samurai mindset & Kaizen philosophy
+
+---
+
+## 🛠️ 技術 | Tech Stack
+
+*Frontend*
+- HTML
+- CSS
+- JavaScript
+- React (learning)
+
+*Backend*
+- Node.js
+- Express
+
+*Database*
+- MongoDB
+
+*Tools*
+- Git & GitHub
+- VS Code
+- AWS
+
+---
+
+## 📚 学習 | Currently Learning
+
+- MERN Stack
+- UI/UX inspired by Japanese minimalism
+- CSS Animations & Micro-interactions
+- 日本語 (Japanese Language 🇯🇵)
+
+---
+
+#🎯 Goals (目標)
+
+- 🏗️ Become a strong Full Stack Developer
+- 🇯🇵 Achieve N4/N3 level Japanese
+- 🌐 Build aesthetic, meaningful web apps
+- 💼 Create a standout developer portfolio
+
+---
+
+## 🤝 Connect With Me
+
+- 🐙 GitHub: https://github.com/your-username
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+🌸 *Thank you for visiting.*  
+⭐ If you like this aesthetic, consider starring the repo.
