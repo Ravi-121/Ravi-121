@@ -1,91 +1,51 @@
-# こんにちは 👋 | Hi, I'm Ravi 🕯️
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=JetBrains+Mono&
-  pause=1200&
-  color=7F5AF0&
-  center=true&
-  vCenter=true&
-  width=600&
-  lines=Observer+of+Code;
-  Walking+the+Path+of+Knowledge;
-  Full+Stack+Developer+in+Progress;
-  Inspired+by+LOTM+%26+Japan" />
+<p align="start">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress" />
 </p>
+ <h1 align="start">こんにちは 👋 | Hi, I'm Ravi 🕯️</h1>
+---
+ 
+🕯️ Philosophy | 考え方
 
-
-⣀⣤⣶⣶⣶⣤⣀                                                                                       
-⣿⣿⣿⡿⠟⠋⠉⠙⠻⢿⣿⣿⣿                                                                               
-⣿⣿⠟⠁ ソフトウェア開発者                                                                          
-⣿⡟⠀ Software Developer                                                                          
-⣿⣿⣄⡀ 夢をコードにする                                                                            
-⠙⠻⠿⠿⠷⠶⠶⠶⠶⠶⠶⠶⠶⠶                                                                             
-
-> 「継続は力なり」  
-> *Consistency is power.*
-
-I believe in:
-- Simplicity over complexity
-- Discipline over motivation
-- Progress over perfection
-
+> **継続は力なり** — Consistency is power  
+> **改善 (Kaizen)** — Improve a little every day
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 Computer Science Student / Developer
-- 🌱 Currently learning **Full Stack Development**
-- 🧠 Interested in **Japanese language, culture & minimal UI**
-- ⚔️ Inspired by Samurai mindset & Kaizen philosophy
-
+ 🧑‍💻 About Me | 自己紹介
+ 
+- 🌱 Learning *MERN Stack*
+- 🎨 Dark, minimal UI lover
+- 🧠 Enjoys logic, mystery & systems
+- 🇯🇵 Learning Japanese (N5)
 ---
 
-## 🛠️ 技術 | Tech Stack
+ 🛠️ Tech Stack | 技術
 
-*Frontend*
-- HTML
-- CSS
-- JavaScript
+Frontend
+- HTML • CSS • JavaScript  
 - React (learning)
 
-*Backend*
-- Node.js
-- Express
+Backend
+- Node.js • Express  (learning)
 
-*Database*
-- MongoDB
+Database
+- MongoDB  (learning)
 
-*Tools*
-- Git & GitHub
-- VS Code
-- AWS
-
+Tools
+- Git • GitHub • VS Code
 ---
 
-## 📚 学習 | Currently Learning
+## 🎯 Goals | 目標
 
-- MERN Stack
-- UI/UX inspired by Japanese minimalism
-- CSS Animations & Micro-interactions
-- 日本語 (Japanese Language 🇯🇵)
-
+- 🌑 Build elegant & intelligent systems
+- ⚔️ Become a Avg developer
+- 💼 Create a powerful portfolio
 ---
 
-#🎯 Goals (目標)
+<p align="start">
+  🕯️ <i>Thank you .</i><br/>
+  
+</p>
 
-- 🏗️ Become a strong Full Stack Developer
-- 🇯🇵 Achieve N4/N3 level Japanese
-- 🌐 Build aesthetic, meaningful web apps
-- 💼 Create a standout developer portfolio
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/ravi-patel
-
----
-
-🌸 *Thank you for visiting.*  
-⭐ If you like this aesthetic, consider starring the repo.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=2000&color=AAAAAA&center=true&width=700&lines=;The+fog+hides+many+truths.;Consistency+is+the+true+ritual." />
+</p>
