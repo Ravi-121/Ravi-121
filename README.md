@@ -34,7 +34,7 @@ Tools
 - Git • GitHub • VS Code
 ---
 
-## 🎯 Goals | 目標
+🎯 Goals | 目標
 
 - 🌑 Build elegant & intelligent systems
 - ⚔️ Become a Avg developer
